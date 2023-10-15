@@ -1,0 +1,6 @@
+connectionStrings: 
+  muchikConnection: "mongodb://127.0.0.1:27017"
+rabbitMqSettings:
+  hostName: rabbitmq-qhatu
+  username: usr_admin
+  password: NewHorizons_2023
