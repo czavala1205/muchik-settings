@@ -1,7 +1,7 @@
 jwtSettings:
-  issuer: muchik.pe,
-  audience: public,
-  secretKey: NABCEMNBWHASONMSRZPOUNABCEMNBWHASONMSRZPOUONS278650124508754329833,
+  issuer: muchik.pe
+  audience: public
+  secretKey: NABCEMNBWHASONMSRZPOUNABCEMNBWHASONMSRZPOUONS278650124508754329833
   lifetime: 3600
 connectionStrings: 
   muchikConnection: "Data Source=local-mssql; Initial Catalog=db_security; user id=sa; password=NewHorizons_2023@"
