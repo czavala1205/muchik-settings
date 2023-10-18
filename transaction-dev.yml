@@ -1,5 +1,6 @@
 connectionStrings: 
   muchikConnection: "mongodb://127.0.0.1:27017"
+  Database: "db_transaction"
 rabbitMqSettings:
   hostName: rabbitmq-qhatu
   username: usr_admin
