@@ -1,5 +1,5 @@
 mongoDBSettings:
-  muchikConnection: mongodb://czavala:123456@127.0.0.1:27017/db_transaction
+  muchikConnection: mongodb://local-mongo:27017
   database: db_transaction
 rabbitMqSettings:
   hostName: rabbitmq-qhatu
