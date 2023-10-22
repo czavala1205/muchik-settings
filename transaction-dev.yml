@@ -1,6 +1,10 @@
 mongoDBSettings:
   muchikConnection: mongodb+srv://czavala1205:fcDa2BvTFWKvWvdv@cluster0.nb7wsas.mongodb.net/db_transaction
   database: db_transaction
+TransactionSettings:
+  TransactionCollectionName: Transaction
+  TransactionConnectionString: mongodb+srv://czavala1205:fcDa2BvTFWKvWvdv@cluster0.nb7wsas.mongodb.net
+  DatabaseName: db_transaction
 rabbitMqSettings:
   hostName: rabbitmq-qhatu
   username: usr_admin
