@@ -6,6 +6,6 @@ TransactionSettings:
   TransactionConnectionString: mongodb+srv://czavala1205:fcDa2BvTFWKvWvdv@cluster0.nb7wsas.mongodb.net/db_transaction
   DatabaseName: db_transaction
 rabbitMqSettings:
-  hostName: rabbitmq-qhatu
+  hostName: muchik-bus
   username: usr_admin
   password: NewHorizons_2023

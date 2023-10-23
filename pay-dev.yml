@@ -1,6 +1,6 @@
 connectionStrings: 
   muchikConnection: "server=local-mysql; database=db_operation; port=3306; user=root; password=NewHorizons_2023@"
 rabbitMqSettings:
-  hostName: rabbitmq-qhatu
+  hostName: muchik-bus
   username: usr_admin
   password: NewHorizons_2023
